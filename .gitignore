@@ -1,8 +1,0 @@
-# virtual environment
-/drfenv/
-
-# intermediary
-*.pyc
-*.swap
-
-
